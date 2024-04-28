@@ -1,0 +1,71 @@
+body{
+    background-image: url(./pexels-jacobyclarkephoto-5400775.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position:0%;
+}
+#design
+{
+    text-align: center;
+    color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+   opacity: 10;
+}
+#link
+{
+    text-align: right;
+    font-size: 14px;
+    color: white;
+}
+span:hover
+{
+    text-decoration: underline;
+}
+
+#div1
+{
+    align-items: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+#p1
+{
+    align-items: center;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 10;
+}
+#watch{
+    padding: 10px 20px; /* Adjust padding as needed */
+
+    /* Make edges rounded */
+    border-radius: 10px; /* Adjust the value to change the roundness of the edges */
+  
+    /* Optional: Add additional styles */
+    border: none; 
+}
+#sub{
+    padding: 10px 20px; /* Adjust padding as needed */
+
+    /* Make edges rounded */
+    border-radius: 10px; /* Adjust the value to change the roundness of the edges */
+  
+    /* Optional: Add additional styles */
+    border: none; 
+}
+#sub:hover
+{
+    background-color:aqua;
+}
+#watch:hover
+{
+    background-color:aqua;
+}
